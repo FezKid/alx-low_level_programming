@@ -3,8 +3,6 @@
 /**
  * main - fibonacci <3
  *
- * Purpose - no hardcode
- *
  * Return:  (Success)
  */
 
