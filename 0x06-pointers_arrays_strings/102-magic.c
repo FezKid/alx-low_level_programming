@@ -1,10 +1,6 @@
 #include <stdio.h>
-/**
- * main - Prints 98
- *
- * Return: Always 0 (Success)
+/*main - Prints a[2] = 98
 */
-
 int main(void)
 {
 int n;
